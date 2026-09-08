@@ -6,15 +6,6 @@ redirect_from:
   - /about/
   - /about.html
 ---
----
-permalink: /
-title: "Ussama Ali"
-author_profile: true
-redirect_from: 
-  - /about/
-  - /about.html
----
-
 I am a mechanical engineer and interdisciplinary researcher with more than eleven years of experience in engineering research and university teaching. My work integrates high-fidelity computational fluid dynamics, fluid–structure interaction, machine learning, high-performance computing, and experimental validation to develop intelligent flow-control technologies and sustainable energy and water systems.
 
 I hold a PhD in Mechanical Engineering from Khalifa University, where my thesis examined heat transfer and flow-induced vibrations of circular cylinders in crossflow. Since then my research has extended into offshore platform optimization, shape memory alloy vortex generators for dry cooling, sloshing control in partially filled tanks, and blended-wing-body UAV design.
